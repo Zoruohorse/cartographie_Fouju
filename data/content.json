@@ -1,0 +1,151 @@
+{
+  "griefs": [
+    {
+      "id": "grief_001",
+      "icon": "⚡",
+      "title": "Démesure énergétique et foncière",
+      "text": "L’emprise foncière et la puissance électrique annoncées constituent un changement d’échelle majeur. Les valeurs exactes doivent être rapprochées des autorisations et études primaires.",
+      "evidence_ids": [
+        "evidence_0067",
+        "evidence_0070",
+        "evidence_0074"
+      ]
+    },
+    {
+      "id": "grief_002",
+      "icon": "🌐",
+      "title": "Pression sur les réseaux",
+      "text": "La concentration des besoins de raccordement pourrait imposer des renforcements et des arbitrages avec d’autres usages de l’électricité.",
+      "evidence_ids": [
+        "evidence_0009",
+        "evidence_0055",
+        "evidence_0075"
+      ]
+    },
+    {
+      "id": "grief_003",
+      "icon": "☣️",
+      "title": "Risques écologiques et industriels",
+      "text": "Les alertes concernent notamment la chaleur, les groupes électrogènes, les fluides frigorigènes et les pollutions potentielles.",
+      "evidence_ids": [
+        "evidence_0018",
+        "evidence_0056",
+        "evidence_0069"
+      ]
+    },
+    {
+      "id": "grief_004",
+      "icon": "📑",
+      "title": "Concertation et cadre réglementaire",
+      "text": "Plusieurs acteurs contestent le calendrier, le niveau de concertation et le découpage administratif du projet.",
+      "evidence_ids": [
+        "evidence_0002",
+        "evidence_0006",
+        "evidence_0015"
+      ]
+    },
+    {
+      "id": "grief_005",
+      "icon": "🔒",
+      "title": "Gouvernance et souveraineté",
+      "text": "La composition du financement et la gouvernance du projet alimentent les interrogations relatives à la souveraineté numérique.",
+      "evidence_ids": [
+        "evidence_0012",
+        "evidence_0048",
+        "evidence_0049"
+      ]
+    },
+    {
+      "id": "grief_006",
+      "icon": "💼",
+      "title": "Retombées socio-économiques",
+      "text": "Les créations d’emplois et recettes fiscales annoncées doivent être comparées aux effets territoriaux et aux coûts d’infrastructure.",
+      "evidence_ids": [
+        "evidence_0013",
+        "evidence_0025",
+        "evidence_0073"
+      ]
+    },
+    {
+      "id": "grief_007",
+      "icon": "🌡️",
+      "title": "Chaleur et émissions atmosphériques",
+      "text": "Les conséquences thermiques locales et les émissions associées aux équipements de secours restent à quantifier à partir des études techniques.",
+      "evidence_ids": [
+        "evidence_0069"
+      ]
+    },
+    {
+      "id": "grief_008",
+      "icon": "💧",
+      "title": "Ressource en eau",
+      "text": "Les modalités de refroidissement et l’éventualité de prélèvements en nappe sont des points de controverse nécessitant une qualification documentaire.",
+      "evidence_ids": [
+        "evidence_0003",
+        "evidence_0076"
+      ]
+    }
+  ],
+  "vigilance": [
+    {
+      "id": "vigilance_001",
+      "title": "Gouvernance et secret des affaires",
+      "text": "La structure détaillée de gouvernance et les responsabilités opérationnelles doivent être vérifiées dans les documents institutionnels.",
+      "evidence_ids": [
+        "evidence_0048"
+      ]
+    },
+    {
+      "id": "vigilance_002",
+      "title": "Surfaces annoncées",
+      "text": "Les différentes surfaces citées ne doivent pas être fusionnées sans vérifier leur périmètre exact.",
+      "evidence_ids": [
+        "evidence_0054"
+      ]
+    },
+    {
+      "id": "vigilance_003",
+      "title": "Calendrier de raccordement",
+      "text": "La puissance maximale annoncée ne correspond pas nécessairement à la capacité disponible lors de la première mise en service.",
+      "evidence_ids": [
+        "evidence_0055"
+      ]
+    },
+    {
+      "id": "vigilance_004",
+      "title": "Prélèvement dans la nappe",
+      "text": "Les volumes, périodes, seuils de sécheresse et mesures compensatoires doivent être contrôlés dans l’arrêté et l’étude d’impact.",
+      "evidence_ids": [
+        "evidence_0076"
+      ]
+    },
+    {
+      "id": "vigilance_005",
+      "title": "Périmètre de l’autorisation",
+      "text": "Il faut distinguer une autorisation des premières infrastructures d’une autorisation complète du projet.",
+      "evidence_ids": [
+        "evidence_0078"
+      ]
+    },
+    {
+      "id": "vigilance_006",
+      "title": "Recours annoncés",
+      "text": "La préparation d’un recours ne doit pas être présentée comme un dépôt effectivement enregistré sans source correspondante.",
+      "evidence_ids": [
+        "evidence_0077"
+      ]
+    },
+    {
+      "id": "vigilance_007",
+      "title": "Identités et rattachements",
+      "text": "Les variantes de noms et rattachements associatifs doivent être vérifiés avant toute création d’acteur supplémentaire.",
+      "evidence_ids": []
+    },
+    {
+      "id": "vigilance_008",
+      "title": "Qualification documentaire",
+      "text": "Une grande partie des preuves restent marquées à qualifier. L’interface signale donc explicitement les sources sans URL.",
+      "evidence_ids": []
+    }
+  ]
+}
